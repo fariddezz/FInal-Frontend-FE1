@@ -792,6 +792,7 @@ footer {
         padding-top: 14%;
         padding: auto;
         box-sizing: border-box;
+        overflow: hidden;
         
     }
 
