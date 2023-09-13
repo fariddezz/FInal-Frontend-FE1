@@ -14,6 +14,10 @@
     --fuente-primaria: 'Be Vietnam Pro', sans-serif;
 }
 
+*{
+    overflow: hidden;
+}
+
 
 header {
     background-color: rgba(240, 248, 255, 0.773);
@@ -792,7 +796,6 @@ footer {
         padding-top: 14%;
         padding: auto;
         box-sizing: border-box;
-        overflow: hidden;
         
     }
 
